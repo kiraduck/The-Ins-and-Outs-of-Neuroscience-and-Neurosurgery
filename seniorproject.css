@@ -15,7 +15,7 @@ font-size: 17px;
 background-color: #ECECEC; 
 color: black;
 }
-. topnav a.active {
+.topnav a.active {
 background-color: #ECECEC;
 color: black;
 }
@@ -39,20 +39,24 @@ body {
 background-color:#091235;
 color: #fafcfe;
 }
+
 imagegg {
 width: auto; 
 height: auto;
 }
-p {
+
+p{
 font-family: Georgia;
 }
+
 h1{ 
  font-family:
 }
- h2{
 
+h2{
 font-family: cursive;
 }
+
 h3{
 font-family: Georgia;
 }
