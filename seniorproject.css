@@ -1,4 +1,6 @@
-topnav {
+.topnav {
+ background-color: #88a9c3;
+ overflow: hidden;
 }
 . topnav a {
 float: left;
@@ -10,7 +12,8 @@ font-size: 17px;
 
 }
 .topnav a:hover {
-background-color: #ECECEC; color: black;
+background-color: #ECECEC; 
+color: black;
 }
 . topnav a.active {
 background-color: #ECECEC;
@@ -20,27 +23,32 @@ color: black;
 width: 600px;
 height: 350px;
 }
-.imageb ( width:
-1896px;
+.imageb {
+width: 1896px;
 height:;
 }
 imagef {
-width:
-750px;
+width: 750px;
 height: 600px;
 }
 .imageg {
-width: 1090px; height: 600px;
+width: 1090px;
+height: 600px;
+}
 body {
-background-color:#091235; color: #fafcfe;
-imagegg 1
-width: auto; height: auto;
+background-color:#091235;
+color: #fafcfe;
+}
+imagegg {
+width: auto; 
+height: auto;
 }
 p {
 font-family: Georgia;
 }
-h1{
-font-family:
+h1{ 
+ font-family:
+}
  h2{
 
 font-family: cursive;
