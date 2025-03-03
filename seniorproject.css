@@ -1,43 +1,50 @@
-/* General Styles */
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    color: #88a9c3;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+topnav {
 }
+. topnav a {
+float: left;
+color: #f2f2f2;
+text-align: center; 
+padding: 14px 16px; 
+text-decoration: none; 
+font-size: 17px;
 
-/* Navigation Styles */
-.topnav {
-    background-color: #ECECEC;
-    overflow: hidden;
 }
-
-.topnav a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
 .topnav a:hover {
-    background-color: #091235;
-    color: black;
+background-color: #ECECEC; color: black;
 }
+. topnav a.active {
+background-color: #ECECEC;
+color: black;
+}
+.image
+width: 600px;
+height: 350px;
+}
+.imageb ( width:
+1896px;
+height:;
+}
+imagef {
+width:
+750px;
+height: 600px;
+}
+.imageg {
+width: 1090px; height: 600px;
+body {
+background-color:#091235; color: #fafcfe;
+imagegg 1
+width: auto; height: auto;
+}
+p {
+font-family: Georgia;
+}
+h1{
+font-family:
+ h2{
 
-.topnav .active {
-    background-color: #fafcfe;
-    color: white;
+font-family: cursive;
 }
-
-/* Header Styles */
-header {
-    background: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
+h3{
+font-family: Georgia;
 }
-/* Main Content Styles */
