@@ -5,7 +5,7 @@ body {
     color: #88a9c3;
     margin: 0;
     padding: 0;
-    background-color: #88a9c3;
+    background-color: #f4f4f4;
 }
 
 /* Navigation Styles */
@@ -44,7 +44,7 @@ header {
 /* Main Content Styles */
 main {
     padding: 20px;
-    background: #88a9c3;
+    background: #fff;
     margin: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
