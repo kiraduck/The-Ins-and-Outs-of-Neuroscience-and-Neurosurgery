@@ -1,8 +1,8 @@
+/* Navigation Bar */
 .topnav {
   background-color: #88a9c3;
   overflow: hidden;
 }
-
 
 .topnav a {
   float: left;
@@ -13,51 +13,56 @@
   font-size: 17px;
 }
 
-
-.topnav a:hover {
-  background-color:#ECECEC;
-  color: black;
-}
-
-
-.topnav a.active {
+.topnav a:hover, .topnav a.active {
   background-color: #ECECEC;
   color: black;
 }
 
+/* Images */
 .image {
-	width: 600px;
-	height: 350px;
+  width: 600px;
+  height: 350px;
 }
- .imageb {
-	 width: 1896px;
-	 height:;
- }
- .imagef {
-	width: 750px;
-	height: 600px;
+
+.imageb {
+  width: 1896px;
+  height: auto; /* Added auto for height to maintain aspect ratio */
 }
+
+.imagef {
+  width: 750px;
+  height: 600px;
+}
+
 .imageg {
-	width: 1090px;
-	height: 600px;
+  width: 1090px;
+  height: 600px;
 }
-body {
-	background-color:#091235;
-	color: #fafcfe;
-}
+
 .imagegg {
-	width: auto;
-	height: auto;
+  width: auto;
+  height: auto;
 }
+
+/* Body */
+body {
+  background-color: #091235;
+  color: #fafcfe;
+}
+
+/* Text Styles */
 p {
-	font-family: Georgia;
+  font-family: Georgia, serif;
 }
-h1{
-	font-family: Serif;
+
+h1 {
+  font-family: Serif;
 }
-h2{
-	font-family: cursive;
+
+h2 {
+  font-family: cursive;
 }
-h3{
-	font-family: Georgia;
+
+h3 {
+  font-family: Georgia, serif;
 }
