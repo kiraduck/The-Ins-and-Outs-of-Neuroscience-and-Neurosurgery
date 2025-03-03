@@ -1,0 +1,63 @@
+.topnav {
+  background-color: #88a9c3;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color:#ECECEC;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #ECECEC;
+  color: black;
+}
+
+.image {
+	width: 600px;
+	height: 350px;
+}
+ .imageb {
+	 width: 1896px;
+	 height:;
+ }
+ .imagef {
+	width: 750px;
+	height: 600px;
+}
+.imageg {
+	width: 1090px;
+	height: 600px;
+}
+body {
+	background-color:#091235;
+	color: #fafcfe;
+}
+.imagegg {
+	width: auto;
+	height: auto;
+}
+p {
+	font-family: Georgia;
+}
+h1{
+	font-family: Serif;
+}
+h2{
+	font-family: cursive;
+}
+h3{
+	font-family: Georgia;
+}
