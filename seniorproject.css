@@ -29,6 +29,7 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+
 .imageb {
   width: 1896px;
   height: auto; /* Added auto for height to maintain aspect ratio */
@@ -85,4 +86,11 @@ h2 {
 h3 {
   font-family: Georgia, serif;
   margin: 20px 0;
+}
+.even-photos img {
+    width: 150px; /* Adjust the width as necessary */
+    height: auto; /* Maintain aspect ratio */
+    margin: 10px; /* Space between images */
+    display: inline-block; /* Align images horizontally */
+    object-fit: cover; /* Ensure the images cover the area without distortion */
 }
